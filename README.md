@@ -7,7 +7,7 @@
 
 - 🎓 Left my 13-year career in the tourism area to devote myself to programming 🤘
 
-- 💻 Tech Trekker: I said goodbye to my career to dive headfirst into a full-stack development bootcamp and immerse myself in the world of tech
+- 💻 I said goodbye to my career to dive headfirst into a full-stack development bootcamp and immerse myself in the world of tech
 
 - 📫 How to reach me **joaomarquesgomes94@gmail.com**
 
