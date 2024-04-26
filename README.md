@@ -12,7 +12,7 @@
 - ⚡ Fun fact **Animals can be allergic to humans.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p>
    <kbd>
       <a href="mailto:joaomarquesgomes94@gmail.com" title="Email Address"><img src="https://img.shields.io/badge/Mail-8B89CC?style=flat&logo=protonmail&logoColor=white" /></a> 
       <a href="https://www.linkedin.com/in/jmarquesgomes/" title="LinkedIn - João Gomes"><img src="https://img.shields.io/badge/-João%20Gomes-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
