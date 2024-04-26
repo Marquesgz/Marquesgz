@@ -13,6 +13,34 @@
 
 - ⚡ Fun fact **Animals can be allergic to humans.**
 
+
+<p align="center">
+   <kbd>
+      <a href="mailto:joaomarquesgomes94@gmail.com" title="Email Address"><img src="https://img.shields.io/badge/Mail-8B89CC?style=flat&logo=protonmail&logoColor=white" /></a> 
+      <a href="https://www.linkedin.com/in/jmarquesgomes/" title="LinkedIn - João Gomes"><img src="https://img.shields.io/badge/-Bernardo%20Melo-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  </kbd>
+</p>
+
+<!-- Tech Stack -->  
+<details open>
+  <summary><b>🛠️ Tech Stack</b></summary>
+    <p>
+       
+<!-- Tech Stack -->
+| **Category** | **Technologies** |
+| - | - |
+**Distro** | [![OpenSUSE](https://img.shields.io/badge/OpenSUSE%20Tumbleweed-4FC922?style=flat&logo=OpenSUSE&logoColor=white)](https://get.opensuse.org/tumbleweed/) [![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=white)](https://pop.system76.com/) [![RaspberryPi OS](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.com/software/)
+**Editors** | [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-E33568?style=flat&logo=intellij-idea&logoColor=white)](https://www.vim.org/) [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=flat&logo=VSCodium&logoColor=white)](https://vscodium.com/) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)<br> [![Vim](https://img.shields.io/badge/Vim-11AB00?style=flat&logo=Vim&logoColor=white)](https://github.com/vim/vim) [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=Neovim&logoColor=white)](https://www.vim.org/) 
+**Learning** | [![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/) [![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css) [![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/) 
+**Comfortable** | [![Linux](https://img.shields.io/badge/Linux-BA3E3E?style=flat&logo=linux&logoColor=white)](https://www.linux.org/) [![MacOS](https://img.shields.io/badge/MacOS-343434?style=flat&logo=apple&logoColor=white)](https://support.apple.com/downloads/macos) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download)<br> [![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)](https://git-scm.com/) 
+
+----
+</p>
+</details>
+
+
+  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jmarquesgomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jmarquesgomes" height="30" width="40" /></a>
