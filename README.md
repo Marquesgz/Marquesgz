@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João</h1>
 <h3 align="center">A passionate full stack developer from Portugal</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AWS**
   
 - 🔭 I’m currently working on **personal projects to boost my portfolio**
 
