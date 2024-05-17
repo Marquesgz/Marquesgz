@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm João</h1>
 <h3 align="center">A passionate full stack developer from Portugal</h3>
 
-- 🌱 I’m currently learning **AWS**
+- 🚀 Originating from Portugal, I'm a dedicated full-stack developer deeply immersed in the vibrant world of technology
   
-- 🔭 I’m currently working on **personal projects to boost my portfolio**
+- 💡 My current focus revolves around mastering **AWS**, where I'm actively delving into its intricacies to expand my technical prowess
 
-- 🎓 Left my 13-year career in the tourism area to devote myself to programming 🤘
+- 💼 Concurrently, I'm channeling my energies into crafting compelling personal projects aimed at augmenting my portfolio and showcasing my proficiency in various tech stacks 🤘
 
-- 💻 Dive headfirst into a full-stack development bootcamp and immerse myself in the world of tech
+- 🎓 My journey into the tech sphere began with a decisive leap into a comprehensive full-stack development bootcamp, where I eagerly embraced the challenges and opportunities inherent in this dynamic field.
 
 - ⚡ Fun fact **Animals can be allergic to humans.**
 
