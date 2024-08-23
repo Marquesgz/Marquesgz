@@ -2,8 +2,6 @@
 <h3 align="center">A passionate full stack developer from Portugal</h3>
 
 - 🚀 Originating from Portugal, I'm a dedicated full-stack developer deeply immersed in the vibrant world of technology
-  
-- 💡 My current focus revolves around mastering **AWS**, where I'm actively delving into its intricacies to expand my technical prowess
 
 - 💼 Concurrently, I'm channeling my energies into crafting compelling personal projects aimed at augmenting my portfolio and showcasing my proficiency in various tech stacks 🤘
 
